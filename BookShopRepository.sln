@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShopRepository", "BookShopRepository\BookShopRepository.csproj", "{E77A4A9D-9ECD-47C7-9873-F7508466C61E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{C78F993F-6A33-490E-82C7-B4705527110B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E77A4A9D-9ECD-47C7-9873-F7508466C61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77A4A9D-9ECD-47C7-9873-F7508466C61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77A4A9D-9ECD-47C7-9873-F7508466C61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77A4A9D-9ECD-47C7-9873-F7508466C61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78F993F-6A33-490E-82C7-B4705527110B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78F993F-6A33-490E-82C7-B4705527110B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78F993F-6A33-490E-82C7-B4705527110B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78F993F-6A33-490E-82C7-B4705527110B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

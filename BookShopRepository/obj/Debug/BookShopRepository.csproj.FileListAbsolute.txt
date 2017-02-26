@@ -1,0 +1,6 @@
+F:\Projects\Vacancy(Job)\BookShopRepository\BookShopRepository\obj\Debug\BookShopRepository.csprojResolveAssemblyReference.cache
+F:\Projects\Vacancy(Job)\BookShopRepository\BookShopRepository\bin\Debug\BookShopRepository.dll.config
+F:\Projects\Vacancy(Job)\BookShopRepository\BookShopRepository\bin\Debug\BookShopRepository.dll
+F:\Projects\Vacancy(Job)\BookShopRepository\BookShopRepository\bin\Debug\BookShopRepository.pdb
+F:\Projects\Vacancy(Job)\BookShopRepository\BookShopRepository\obj\Debug\BookShopRepository.dll
+F:\Projects\Vacancy(Job)\BookShopRepository\BookShopRepository\obj\Debug\BookShopRepository.pdb

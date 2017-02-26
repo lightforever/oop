@@ -1,0 +1,8 @@
+F:\Projects\Vacancy(Job)\BookShopRepository\TestConsole\bin\Debug\TestConsole.exe.config
+F:\Projects\Vacancy(Job)\BookShopRepository\TestConsole\bin\Debug\TestConsole.exe
+F:\Projects\Vacancy(Job)\BookShopRepository\TestConsole\bin\Debug\TestConsole.pdb
+F:\Projects\Vacancy(Job)\BookShopRepository\TestConsole\bin\Debug\BookShopRepository.dll
+F:\Projects\Vacancy(Job)\BookShopRepository\TestConsole\bin\Debug\BookShopRepository.pdb
+F:\Projects\Vacancy(Job)\BookShopRepository\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+F:\Projects\Vacancy(Job)\BookShopRepository\TestConsole\obj\Debug\TestConsole.exe
+F:\Projects\Vacancy(Job)\BookShopRepository\TestConsole\obj\Debug\TestConsole.pdb
